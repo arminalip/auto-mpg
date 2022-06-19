@@ -107,3 +107,4 @@ The project organisation is based on a minimalistic version of the [cookiecutter
     ├── requirements.txt   <- The requirements file
     ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
+    ├── main.py            <- To be able to use the model in production (Haven't figured out how to POST the final prediction to the page yet)
